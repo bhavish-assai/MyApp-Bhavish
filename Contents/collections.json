@@ -1,29 +1,29 @@
 {
 [
 {
-"id"=1,
-"display_image_url"="abcd.com",
-"collection_name" = "Plane Wallpapers"
+"id":1,
+"display_image_url":"abcd.com",
+"collection_name" : "Plane Wallpapers"
 },
 {
-"id"=2,
-"display_image_url"="abcd.com",
-"collection_name" = "Colourful Papers"
+"id":2,
+"display_image_url":"abcd.com",
+"collection_name" :"Colourful Papers"
 },
 {
 "id"=3,
-"display_image_url"="abcd.com",
-"collection_name" = "Dark Papers"
+"display_image_url":"abcd.com",
+"collection_name" : "Dark Papers"
 },
 {
 "id"=4,
-"display_image_url"="abcd.com",
-"collection_name" = "Vibrant Papers"
+"display_image_url":"abcd.com",
+"collection_name" : "Vibrant Papers"
 },
 {
 "id"=5,
-"display_image_url"="abcd.com",
-"collection_name" = "Super Heros"
+"display_image_url":"abcd.com",
+"collection_name" : "Super Heros"
 }
 ]
 }
