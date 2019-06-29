@@ -1,4 +1,5 @@
 {
+  "collections":
 [
 {
 "id":1,
@@ -11,17 +12,17 @@
 "collection_name" :"Colourful Papers"
 },
 {
-"id"=3,
+"id":3,
 "display_image_url":"abcd.com",
 "collection_name" : "Dark Papers"
 },
 {
-"id"=4,
+"id":4,
 "display_image_url":"abcd.com",
 "collection_name" : "Vibrant Papers"
 },
 {
-"id"=5,
+"id":5,
 "display_image_url":"abcd.com",
 "collection_name" : "Super Heros"
 }
